@@ -77,7 +77,7 @@
     "unist-util-visit": "^5.0.0"
   },
   "devDependencies": {
-    "@blitz/eslint-plugin": "0.1.0",
+    "@blitz/eslint-plugin": "0.1.4",
     "@cloudflare/workers-types": "^4.20240620.0",
     "@remix-run/dev": "^2.10.0",
     "@types/diff": "^5.2.1",
